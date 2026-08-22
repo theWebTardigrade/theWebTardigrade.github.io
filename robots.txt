@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://theWebTardigrade.github.io/al-folio/sitemap.xml
+Sitemap: https://theWebTardigrade.github.io/sitemap.xml
